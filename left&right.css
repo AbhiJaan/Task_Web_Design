@@ -1,0 +1,177 @@
+.bnn
+{
+    /* background-color: white; */
+    height: 548px;
+    width:100% ;
+    margin:0px 0px 0px 10px;
+    margin-bottom: 0px;
+    /* background-image: url("./pix2.jpg"); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%
+}
+.wa
+{
+    position: relative;
+    top: -195px;
+    margin-left: 218px;
+    text-align: justify;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+     display: inline-block 
+}
+.wa div
+{
+    left: 100px;
+    width: 940px;
+    
+}
+.wa h1
+{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.wa button{
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    background: transparent;
+    color: black;
+    transition: all 1s;
+}
+.wa button:hover
+{
+    background-color: orange;
+}
+/* who we are ends */
+.wa1
+{
+    position: relative;
+    top:50px;
+    margin-left: 50px;
+    text-align:start;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+     display: inline-block 
+}
+.wa1 div
+{
+    width: 449px;
+    
+}
+.wa1 h1
+{
+    font-size: 40px;
+    margin-top: 10px;
+}
+/* .wa1 button{
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    background: transparent;
+    color: black;
+    transition: all 1s;
+}
+.wa1 button:hover
+{
+    background-color: orange;
+} */
+.wa1 img
+{
+
+    height: 152px;
+    width: 162px;
+    background-color: blueviolet;
+    /* opacity: 0.7; */
+    position: relative;
+    top: -52px;
+    left: -23px;
+/* transition: all 2s; */
+/* transform:rotate(45deg); */
+margin: 10px;
+/* box-shadow:10px 50px 20px black; */
+display: inline-block;
+border-radius:5px 5px 5px 5px; 
+
+
+}
+.wa1
+{
+    position: relative;
+    top:50px;
+    margin-left: 50px;
+    text-align:start;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+     display: inline-block 
+}
+.wa1 div
+{
+    width: 449px;
+    
+}
+.wa1 h1
+{
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.wa2 img
+{
+
+
+    height: 152px;
+    width: 162px;
+    background-color: blueviolet;
+    /* opacity: 0.7; */
+    position: relative;
+    top: -364px;
+    left: 1019px;
+/* transition: all 2s; */
+/* transform:rotate(45deg); */
+margin: 10px;
+/* box-shadow:10px 50px 20px black; */
+display: inline-block;
+border-radius:5px 5px 5px 5px; 
+
+
+}
+
+.waa
+{
+    position: relative;
+    top: -171px;
+    margin-left: 20px;
+    text-align: justify;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+     display: inline-block 
+}
+.waa div
+{
+    left: 100px;
+    width:950px;
+    
+}
+.waa h1
+{
+    font-size: 40px;
+    margin-top: 10px;
+}
+.elebn
+{
+    background-color:lightgray;
+    position: relative;
+    margin-top: -250px;
+    height: 300px;
+    width:1238px ;
+    margin:-324px 0px 0px 15px;
+    /* background-image: url("./pix3.jpg"); */
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: 100%
+}

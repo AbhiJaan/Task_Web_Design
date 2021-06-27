@@ -1,0 +1,204 @@
+.buttonvertbanner
+{
+    background-color: none;
+    height: 60px;
+    width:700px ;
+    margin:0px 0px 0px 10px;
+    background-size: 100%
+}
+.my-contentvert
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+    display: inline-block;
+}
+.my-contentvert div
+{
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 1px;
+}
+.my-contentvert button
+{
+    position: relative;
+    left:20px;
+    box-sizing: border-box;
+ 
+    size:800px;
+    border-radius:5px;
+    padding: 15px 50px 15px 50px;
+    background:transparent;
+    color:white;
+    background-color: red;
+    /* transition: all 1s; */
+
+} 
+
+.my-content h1
+{
+    position: relative;
+    top:10px;
+    font-size: 40px;
+    left: 300px;
+}
+.my-contentvert1
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+    display: inline-block;
+}
+.my-contentvert1 div
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+}
+.my-contentvert1 button
+{
+    position: relative;
+    left:20px;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 5px;
+    size:800px;
+    /* border-radius:20px; */
+    padding: 15px 50px 15px 50px;
+    background:transparent;
+    background-color: black;
+    color:white;
+}
+.my-contentvertalt
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+    display: inline-block;
+}
+.my-contentvertalt div
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+}
+.my-contentvertalt button
+{
+    position: relative;
+    left:20px;
+    box-sizing: border-box;
+ 
+    size:800px;
+    border-radius:5px;
+    padding: 15px 50px 15px 50px;
+    background:transparent;
+    color:black;
+    background-color:white;
+    /* transition: all 1s; */
+
+} 
+.my-contentvertsmall
+{
+    color: white;
+    position: relative;
+    top: -37px;
+    left: 399px;
+    display: inline-block;
+}
+.my-contentvertsmall div
+{
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 1px;
+}
+.my-contentvertsmall button
+{
+    position: relative;
+    left:20px;
+    box-sizing: border-box;
+ 
+    size:800px;
+    border-radius:5px;
+    padding: 10px 30px 10px 30px;
+    background:transparent;
+    color:white;
+    background-color: red;
+    /* transition: all 1s; */
+
+} 
+
+.my-content h1
+{
+    position: relative;
+    top:10px;
+    font-size: 40px;
+    left: 300px;
+}
+.my-contentvertsmall1
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+    display: inline-block;
+}
+.my-contentvertsmall1 div
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+}
+.my-contentvertsmall1 button
+{
+    position: relative;
+    left:20px;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 5px;
+    size:800px;
+    /* border-radius:20px; */
+    padding: 10px 30px 10px 30px;
+    background:transparent;
+    background-color: black;
+    color:white;
+}
+.my-contentvertaltsmall
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+    display: inline-block;
+}
+.my-contentvertaltsmall div
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+}
+.my-contentvertaltsmall button
+{
+    position: relative;
+    left:20px;
+    box-sizing: border-box;
+ 
+    size:800px;
+    border-radius:5px;
+    padding: 10px 30px 10px 30px;
+    background:transparent;
+    color:black;
+    background-color:white;
+    /* transition: all 1s; */
+
+} 
+
+

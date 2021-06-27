@@ -1,0 +1,248 @@
+.buttonbanner
+{
+    background-color: none;
+    height: 60px;
+    width:700px ;
+    margin:0px 0px 0px 10px;
+    background-size: 100%
+}
+/* nav a
+{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    left:500px;
+    padding:10px 0px 10px 10px;
+    margin-left: 50px;
+    transition: all 1s;
+}
+nav a:hover
+{
+    background-color:navajowhite;
+    border-radius: 10px;
+    padding: 5px;
+} */
+/* nav
+{
+    padding: 0px 0px 0px 0px;
+} */
+
+.my-contentsmall
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 12px;
+    display: inline-block;
+}
+.my-contentsmall div
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 12px;
+}
+.my-contentsmall button
+{
+    position: relative;
+    left:20px;
+    box-sizing: border-box;
+ 
+    size:800px;
+    border-radius:5px;
+    padding: 10px 30px 10px 30px;
+    background:transparent;
+    color:white;
+    background-color: red;
+    /* transition: all 1s; */
+
+} 
+.my-contentsmall1
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+    display: inline-block;
+}
+.my-contentsmall1 div
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+}
+.my-contentsmall1 button
+{
+    position: relative;
+    left:35px;
+    box-sizing: border-box;
+ 
+    size:800px;
+    border-radius:5px;
+    padding: 10px 30px 10px 30px;
+    background:transparent;
+    color:white;
+    background-color: black;
+    /* transition: all 1s; */
+}
+
+.my-contentaltsmall
+{
+    color: white;
+    position: relative;
+    top: -7px;
+    left:15px;
+    display: inline-block;
+}
+.my-contentaltsmall div
+{
+    color: white;
+    position: relative;
+    top: 12px;
+    left: 1px;
+}
+.my-contentaltsmall button
+{
+    position: relative;
+    left:25px;
+ 
+    size:800px;
+    border-radius:5px;
+    padding: 10px 30px 10px 30px;
+    background:transparent;
+    color:black;
+    background-color:white;
+    /* transition: all 1s; */
+
+} 
+
+.my-content
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+    display: inline-block;
+}
+.my-content div
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+}
+.my-content button
+{
+    position: relative;
+    left:20px;
+    box-sizing: border-box;
+ 
+    size:800px;
+    border-radius:5px;
+    padding: 15px 50px 15px 50px;
+    background:transparent;
+    color:white;
+    background-color: red;
+    /* transition: all 1s; */
+
+} 
+.my-contentalt
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+    display: inline-block;
+}
+.my-contentalt div
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+}
+.my-contentalt button
+{
+    position: relative;
+    left:20px;
+    box-sizing: border-box;
+ 
+    size:800px;
+    border-radius:5px;
+    padding: 15px 50px 15px 50px;
+    background:transparent;
+    color:black;
+    background-color:white;
+    /* transition: all 1s; */
+
+} 
+
+/* .my-content button:hover
+{
+    background-color: rgb(167, 10, 49);
+} */
+.my-content h1
+{
+    position: relative;
+    top:10px;
+    font-size: 40px;
+    left: 300px;
+}
+.my-content1
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+    display: inline-block;
+}
+.my-content1 div
+{
+    color: white;
+    position: relative;
+    top: 22px;
+    left: 1px;
+}
+.my-content1 button
+{
+    position: relative;
+    left:20px;
+    color: white;
+    box-sizing: border-box;
+    border-radius: 5px;
+    size:800px;
+    /* border-radius:20px; */
+    padding: 15px 50px 15px 50px;
+    background:transparent;
+    background-color: black;
+    color:white;
+    /* transition: all 1s; */
+
+    /* position: relative;
+    top:5px;
+    left: 340px;
+    border-radius: 20px solid rgb(158, 18, 41);
+    size:800px;
+    /* border-radius:20px; 
+    padding: 10px 20px 10px 20px;
+    background:transparent;
+    color:white;
+    transition: all 1s; */
+
+} 
+
+.my-content1 button:hover
+{
+    background-color: rgb(14, 4, 8);
+}
+.my-content1 h1
+{
+    position: relative;
+    top:10px;
+    color:white;
+    font-size: 40px;
+    left: 300px;
+}
+
