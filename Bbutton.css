@@ -1,0 +1,18 @@
+button
+{
+    color: rgb(3, 19, 13);
+    background-color: rgb(26, 28, 141);  
+    border:1px solid brown;
+    border-radius: 10px;
+    outline: none; 
+
+}
+ button:active
+{
+    background-color: green;
+} 
+ button:hover
+{
+color: rgb(11, 64, 73);
+}
+

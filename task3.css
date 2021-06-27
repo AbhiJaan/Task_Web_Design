@@ -1,0 +1,1251 @@
+body.html
+{
+    padding:20px;
+    margin: 20px;
+    overflow-x: hidden;
+}
+/* Banner starts */
+.bannertask3
+{
+    
+    height: 500px;
+    width:100% ;
+    margin:0px 0px 0px 0px;
+    background-image: url("./pix2.jpg");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: 100%
+}
+.bant2
+{
+    background-color: black;
+    height: 800px;
+    width:100% ;
+    position: relative;
+    left: 10px;
+    margin:128px 0px 0px 10px;
+    /* background-image: url("./pix2.jpg"); */
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: 100%
+}
+.bant3
+{
+    background-color:lightgray;
+    height: 500px;
+    width:100% ;
+    position: relative;
+    left: 10px;
+    margin:128px 0px 0px 10px;
+    /* background-image: url("./pix2.jpg"); */
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: 100%
+}
+nav a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    left:100px;
+    padding:20px 20px 20px 20px;
+    margin-left: 50px;
+    transition: all 1s;
+}
+nav a:hover
+{
+    background-color: tomato;
+    border-radius: 10px;
+    padding: 5px;
+}
+nav
+{
+    padding: 0px 0px 0px 0px;
+   position: sticky;
+
+}
+.a-right
+
+{
+    /* display: inline-block; */
+    padding: 0px 0px 40px 0px;
+    position: relative;
+    margin-top: 5px;
+    margin-left:225px;
+    
+
+}
+.my-logot3
+{
+    
+    position: relative;
+    margin-top: 10px;
+    left: 20px;
+    font-size: 30px!important;
+    color: white;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+}
+.my-contentt2
+{
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 230px;
+}
+.my-contentt2 p
+{
+    position: relative;
+    left: 20px;
+    width: 800px;
+    font-size: 30px;
+    text-align: center;
+    
+}
+.my-contentt2 button
+{
+    position: relative;
+    top: 5px;
+    left: 209px;
+    border-radius: 10PX;
+    size: 800px;
+    /* border-radius: 20px; */
+    padding: 20px 79px 20px 71px;
+    background:transparent;
+    color:white;
+    transition: all 1s;
+
+} 
+
+.my-contentt2 button:hover
+{
+    background-color:rgb(37, 133, 172);
+}
+.my-contentt2 h1
+{
+    position: relative;
+    top:10px;
+    font-size: 50px;
+    font-weight: 400px;
+    font-family: Arial Unicode MS;
+    left:148px;
+}
+/* banner ends */
+ /*Who we are starts  */
+ .wwat2
+{
+    position: relative;
+    top:50px;
+    margin-left:358px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+
+     display: inline-block 
+}
+/* .wwat2 div
+{
+    width: 449px;
+    
+} */
+.wwat2 P
+{
+    position: relative;
+    left:40px ;
+    font-size: 10;
+    color: lightgray;
+    margin-top: 10px 10px 10px 50px;
+   
+}
+.wwat2 h3
+{
+    font-size: 40px;
+   
+    margin-top: 10px;
+}
+.wwat2 button{
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    background: transparent;
+    color: black;
+    transition: all 1s;
+}
+.wwat2 button:hover
+{
+    background-color: orange;
+}
+/* who we are ends */
+.modit2 div
+{
+    
+    border: 1px solid black;
+    height: 300px;
+    width: 200px;
+    display: inline-block;
+    position: relative;
+    top: 77px;
+    left:100px;
+    margin-left: 80px;
+    padding-left: 26px;
+    transition: all 2s;
+
+}
+.modit2 div:hover
+{
+    transform:translate(0px,-20px)
+
+}
+.modit2
+{
+    margin-top: 20px;
+}
+/* Modi ends */
+/* Call o action starts */
+.action
+{
+    margin-top: 5px;
+    /* background-color: rgba(0, 128, 43, 0.623); */
+    background-image: url("./pix6.html");
+    color: white;
+    padding: 10px 0px 30px 0px;
+}
+.action .div1
+{
+    width: 700px;
+    display: inline-block;
+    margin-left: 40px;
+}
+.action .div2
+{
+    width: 200px;
+}
+/* call to action ends */
+/* cards starts */
+.card
+{
+    height: 250px;
+    width: 200px;
+    border: 1px solid gray;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    background-color:red;
+}
+.cards
+{
+    margin-top: 20px;
+}
+.card-footer button
+{
+    border:1px solid orange;
+    border-radius: 20px;
+    padding: 10px 15px 10px 15px;
+    background:transparent;
+    color:black;
+    transition: all 1s;
+    position: relative; 
+    left:55px;
+    top: 80px;
+
+}
+.card-footer button:hover
+{
+    background-color: orange;
+}
+.card-header
+{
+    border:none;
+    border-bottom: 1px solid gray;
+    background-color: purple;
+}
+.card-footer
+{
+    border:none;
+     border-top: 1px solid gray ;
+     background-color: rgba(0, 128, 43, 0.623);
+}
+.cards p
+{
+    text-align: center;
+
+}
+.card-body
+{
+    background: transparent!important;
+}
+/* cards ends */
+.generic h1
+{
+    position: relative;
+    top:10px;
+    font-size: 40px;
+    left: 500px;
+}
+.genricbanner
+{
+    background-color: rgb(8, 8, 68);
+    height: 400px;
+    width:100%PX ;
+    /* margin:0px 0px 0px 200px; */
+    /* background-image: url("./pix5.jpg"); */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%
+}
+.my-genericlogo
+{
+    
+    position: relative;
+    top: 20px;
+    left: 550;
+    font-size: 17px!important;
+    color: rgb(26, 18, 18);
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.banner2
+{
+    background-color: darkblue;
+    height: 565px;
+    width:100% ;
+    margin:50px 0px 50px 0px;
+    background-image: url("./pix2.jpg");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: 100%
+}
+
+.my-logo1
+{
+    
+    position: relative;
+    margin-top: 10px;
+    left: 150px;
+    font-size: 50px!important;
+    color: black;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    text-align: center;
+}
+.my-content1
+{
+    color: white;
+    position: relative;
+    top: 50px;
+    left: 230px;
+}
+.my-content1 p {
+    position: relative;
+    top: -46px;
+    left: 15px;
+    width: 800px;
+    text-align: center;
+
+}
+/* .my-img 
+{
+    position: relative;
+    top: 100px;
+    height: 500;
+    width: 800px;
+    left: 50px;
+    background:5px solid red;
+    border-radius: 20px;
+    background-color: darkcyan; 
+    display: inline-block;
+    
+}
+.my-img  div
+{
+    position: relative;
+    top: 200px;
+    width: 500px;
+    left: 150px;
+    
+    background:5px solid red;
+    border-radius: 20px;
+    background-color: darkcyan;
+    
+}  */
+/* SAML 
+.img div
+{
+    position: relative;
+    top: 100px;
+
+     height: 550px;
+    width: 200px;
+    /* border: 1px solid gray; 
+    margin-left: 100px;
+    /* margin-bottom: 40px; */
+
+    /* background-color:red; */
+
+ 
+
+.my-logo2
+{
+    
+    position: relative;
+    margin-top: 10px;
+    left: 150px;
+    font-size: 50px!important;
+    color: black;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    text-align: center;
+   
+}
+.my-content2
+{
+    color: rgba(14, 5, 5, 0.959);
+    position: relative;
+    top: -12px;
+    left: 230px;
+}
+.my-content2 p {
+    position: relative;
+    top: -46px;
+    left: 15px;
+    width: 800px;
+    text-align: center;
+
+}
+.banner3
+{
+    background-color: white;
+    height: 700px;
+    width:100% ;
+    margin:50px 0px 50px 0px;
+     background-image: url("./pix4.jpg"); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+   
+    
+    
+}
+.wwa1w
+{
+    position: relative;
+    top: 130px;
+    margin-left: 925px;
+    margin-bottom: -81px;
+    text-align: right;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+    display: inline-block
+    
+}
+.wwa1
+{
+    position: relative;
+    top: 130px;
+    margin-left: -96px;
+    margin-bottom: -81px;
+    text-align: right;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+    display: inline-block
+    
+}
+.wwaa
+{
+    position: relative;
+    top: 30px;
+    margin-left:-13px;
+    margin-bottom: -81px;
+    text-align: right;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+    display: inline-block
+    
+}
+.wwa1 img
+{ 
+    position: relative;
+    left: 272px;
+    top: -337px;
+    right: 49px;
+    height: 232px;
+    width: 243px;
+    border-radius: 100%;
+
+
+}
+.wa1 img
+{ 
+    position: relative;
+    left: 277px;
+    top: -424px;
+    right: 49px;
+    height: 232px;
+    width: 243px;
+    border-radius: 100%;
+
+
+}
+.wa2 img
+{ 
+    
+        position: relative;
+        left: 533px;
+        top: -184px;
+        right: 49px;
+        height: 232px;
+        width: 243px;
+        border-radius: 100%;
+
+
+}
+
+    
+.wwa4
+{
+    position: relative;
+    top: 130px;
+    margin-left: 0px;
+    margin-bottom: -81px;
+    text-align: right;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+    display: inline-block
+    
+}
+.wwa4 img
+{ 
+    position: relative;
+    left: 674px;
+    top: -336px;
+    right: 29px;
+    height: 232px;
+    width: 243px;
+    border-radius: 100%;
+
+}
+.wwa2 {
+    position: relative;
+    top: 3px;
+    margin-left: 101px;
+    text-align: right;
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+    
+  
+}
+.wwaaa img {
+    position: relative;
+    left: 500px;
+    top: -324px;
+    right: 49px;
+    height: 232px;
+    width: 243px;
+    border-radius: 100%;
+}
+.wwa3
+ {
+    position: relative;
+    top:-171px;
+    margin-left: 101px;
+    text-align: right;
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+    
+  
+}
+.wa3
+ {
+    position: relative;
+    top: -5px;
+    margin-left: 101px;
+    text-align: right;
+    font-weight: 200px;
+    font-family:Bookman Old Style;
+    
+  
+}
+
+
+.pic 
+{
+    position: relative;
+   left: 310px; 
+   right: 50px;
+   height: 400px;
+   width: 300px;
+   border-radius:100%;
+  
+   display: inline-block;
+
+}
+.pic img
+{
+   /* position: relative;
+   left: 100px; */
+   height: 400px;
+   width: 385px;
+   border-radius:100%;
+   
+   display: inline-block;
+
+}
+.pic div
+{
+position: relative;
+left:500px;
+background-size: 100px;
+height: 400px;
+width: 300px;
+border-radius:100%;
+
+} 
+.pic caption
+{
+position: relative;
+left:100px;
+background-size: 100px;
+height: 400px;
+width: 300px;
+border-radius:100%;
+
+} 
+
+    .banner4
+    {
+        background-color: darkblue;
+        height: 500px;
+        width:100% ;
+        margin:0px 0px 0px 10px;
+        background-image: url("./pix2.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-size: 100%
+    }
+
+.my-logo3
+{
+    
+    position: relative;
+    margin-top: 20px;
+    font-size: 17px!important;
+    color: white;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+}
+.my-contentt3
+{
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+.my-content4 p
+{
+    position: relative;
+    left: 50px;
+    width: 800px;
+    text-align: center;
+    
+}
+.my-content4 button
+{
+    position: relative;
+    top:50px;
+    left: 350px;
+    border-radius: 3px solid rgb(158, 18, 41);
+    size:800px;
+    /* border-radius:20px; */
+    padding: 10px 10px 10px 10px;
+    background:transparent;
+    color:white;
+    transition: all 1s;
+
+} 
+
+.my-content4 button:hover
+{
+    background-color: rgb(167, 10, 10);
+}
+.my-content4 h1
+{
+    position: relative;
+    top:10px;
+    font-size: 40px;
+    left: 150px;
+}
+/* ******************************************************* */
+.my-contentt2
+{
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 230px;
+}
+.my-content p
+{
+    position: relative;
+    left: 15px;
+    width: 800px;
+    text-align: center;
+    
+}
+.my-content button
+{
+    position: relative;
+    top:5px;
+    left: 340px;
+    border-radius: 20px solid rgb(158, 18, 41);
+    size:800px;
+    /* border-radius:20px; */
+    padding: 10px 20px 10px 20px;
+    background:transparent;
+    color:white;
+    transition: all 1s;
+
+} 
+
+.my-content button:hover
+{
+    background-color: rgb(167, 10, 10);
+}
+.my-content h1
+{
+    position: relative;
+    top:10px;
+    font-size: 40px;
+    left: 300px;
+}
+
+.wwatt3
+{
+    position: relative;
+    top:50px;
+    margin-left:82px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    width: 200px;
+     display: inline-block 
+}
+ .wwatt3 div
+{
+    width: 600px;
+    
+}  
+.wwatt3 P
+{
+    
+    position: relative;
+    left:3px ;
+    font-size: 15PX;
+    color: black;
+    text-align: justify;
+    margin-top: 10px 10px 10px 50px;
+   
+}
+.wwatt3 h4
+{
+    font-size: 15px; 
+    color: black;
+    font-style: normal;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.wwatt3 button{
+    border: 1px solid tomato;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    position: relative;
+    left: 50px;
+    background: transparent;
+    color:black;
+    background-color: red;
+    /* transition: all 1s; */
+}
+/* .wwatt3 button:hover
+{
+    background-color:red;
+} */
+.wwatt3 img
+{
+    position: relative;
+    left: 20px;
+    height: 150px;
+    width: 200px;
+    border-radius: 10px;
+}
+
+/* ********************************************************************************************* */
+.wwat13
+{
+    position: relative;
+    top:50px;
+    margin-left:-28px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    width: 800px;
+     display: inline-block 
+}
+ .wwat13 div
+{
+    width: 600px;
+    
+}  
+.wwat13 P
+{
+    
+    position: relative;
+    left:50px ;
+    font-size: 15PX;
+    color: gray;
+    text-align: justify;
+    margin-top: 10px 10px 10px 50px;
+   
+}
+.wwat13 h2
+{
+    font-size: 20px;
+    color: blacks;
+    position: relative;
+    left: 50px;
+    font-style: normal;
+    margin-top: 10px;
+}
+.wwat13 button{
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    position: relative;
+    left: 250px;
+    background: transparent;
+    color: white;
+    transition: all 1s;
+}
+.wwat13 button:hover
+{
+    background-color: orange;
+}
+.wwat13 img
+{
+    position: relative;
+    left: 50px;
+    height: 300px;
+    width: 800px;
+    border-radius: 10px;
+}
+
+.wwat14
+{
+    position: relative;
+    top:66px;
+    margin-left:100px;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    width: 350px;
+     display: inline-block 
+}
+.wwat14 button{
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    position: relative;
+    left: 26px;
+    background: transparent;
+    color: black;
+    transition: all 1s;
+}
+.wwat14 h2
+{
+    font-size: 20px;
+    color: lightgray;
+   margin: 0px 10px 10px 50px
+}
+
+.wwat14 p
+{
+    position: relative;
+    left:-48px ;
+    font-size: 10px;
+    color: rgb(27, 25, 25);
+    margin: 10px 10px 30px 50px;
+    text-align: l;
+}
+
+
+.wwat14 button:hover
+{
+    background-color: orange;
+}
+
+.hp P
+{
+    position: relative;
+    left:40px ;
+    font-size: 10;
+    color: lightgray;
+    margin: 10px 10px 30px 412px;
+   
+}
+.hp h3
+{
+    font-size: 40px;
+    color: lightgray;
+   margin: 20px 10px 10px 227px
+}
+
+.hp
+{
+    position: relative;
+    top:50px;
+    margin-left:100px;
+
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    /* font-weight: 400px; */
+    /* width: 800px; */
+}
+
+.wwat15
+{
+    position: relative;
+    top:15px;
+    margin-left:42px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 200px;
+    width: 350px;
+     display: inline-block 
+}
+.wwat15 button{
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    position: relative;
+    left: 26px;
+    background: transparent;
+    color: black;
+    transition: all 1s;
+}
+.wwat15 h2
+{
+    font-size: 20px;
+    color: lightgray;
+   margin: 0px 10px 10px 50px
+}
+
+.wwat15 p
+{
+    position: relative;
+    left:-48px ;
+    font-size: 14px;
+    color: rgb(27, 25, 25);
+    margin: 0px 10px 30px 50px;
+    text-align: l;
+}
+
+
+.wwat15 button:hover
+{
+    background-color: orange;
+}
+
+.bannt3
+{
+    height: 1023px;
+    width: 100%;
+    background-color: rgb(17, 14, 15);
+    background-size: 100%;
+    position: relative;
+    top:85px
+}
+
+iframe
+{
+    height: 237px;
+    width: 392px;
+    position: relative;
+    top:85px;
+    left: 20px;
+    background: transparent;
+    background-color: blanchedalmond;
+}
+.ban3ts
+{
+    height: 237px;
+    width: 392px;
+    position: relative;
+    margin: 85px 0px 0px 20px;
+    /* top:85px;
+    left: 20px; */
+    background-color: blanchedalmond;
+    display: inline-block;
+}
+
+.wwattst3
+{
+    position: relative;
+    top: 34px;
+    margin-left: 67px;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    width: 100px;
+     display: inline-block 
+}
+ .wwattst3 div
+{
+    width: 600px;
+    
+}  
+.wwattst3 P
+{
+    
+    position: relative;
+    left:3px ;
+    font-size: 12PX;
+    color: black;
+    text-align: justify;
+    margin-top: 10px 10px 10px 50px;
+   
+}
+.wwattst3 h4
+{
+    font-size: 16px;
+    color: black;
+    font-style: normal;
+    margin-top: 6px;
+    margin-left: 3px;
+}
+.wwattst3 button{
+    border: 1px solid tomato;
+    border-radius: 10px;
+    padding: 5px 9px 4px 12px;
+    position: relative;
+    left: 2px;
+    background: transparent;
+    color:black;
+    background-color: red;
+    /* transition: all 1s; */
+}
+/* .wwatt3 button:hover
+{
+    background-color:red;
+} */
+.wwattst3 img
+{
+    position: relative;
+    left: -13px;
+    height: 170px;
+    width: 150px;
+    border-radius: 10px;
+}
+
+.modis3 div
+{
+    
+    border: 1px solid black;
+    height: 300px;
+    width: 200px;
+    /* display: inline-block; */
+    position: relative;
+    top: 77px;
+    left:100px;
+    margin-left: 80px;
+    padding-left: 26px;
+    /* transition: all 2s; */
+
+}
+.modis{
+    margin-top: 20px;
+}
+.cardts
+{
+    height: 408px;
+    width: 100px;
+    border: 1px solid gray;
+    margin-left: 10px;
+    margin-bottom: 40px;
+    margin-top: 0px;
+    border-radius: 5px;
+    background-color:honeydew;
+}
+.cardts p
+{
+color:black;
+}
+.cardsts
+{
+    margin-top: 20px;
+}
+.cardts-footer button
+{
+    border:1px solid orange;
+    border-radius: 20px;
+    padding: 10px 15px 10px 15px;
+    background:transparent;
+    color:black;
+    transition: all 1s;
+    position: relative; 
+    left:55px;
+    top: 80px;
+
+}
+.cardts-footer button:hover
+{
+    background-color: orange;
+}
+.cardts-header
+{
+    border:none;
+    border-bottom: 1px solid gray;
+    background-color: purple;
+}
+.cardts-footer
+{
+    border:none;
+     border-top: 1px solid gray ;
+     background-color: rgba(0, 128, 43, 0.623);
+}
+.cardsts p
+{
+    text-align: center;
+
+}
+.cardts-body
+{
+    background: transparent!important;
+}
+.wwattst4
+{
+    position: relative;
+    top: 42px;
+    left:20px;
+    margin-left: 60px;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    height: 600px;
+    width: 300px;
+    margin: 0px 0px 0px 0px;
+    display: inline-block 
+}
+ .wwattst4 div
+{
+    width: 264px;
+    
+    
+}  
+.wwattst4 P
+{
+    
+    position: relative;
+    left:3px ;
+    font-size: 12PX;
+    color: gray;
+    text-align: justify;
+    margin-top: 10px 10px 10px 50px;
+    width: 250px;
+   
+}
+.wwattst4 h4
+{
+    font-size: 20px;
+    color:white;
+    font-style: normal;
+    margin-top: 6px;
+    margin-left: 3px;
+}
+.wwattst4 button{
+    border: 1px solid tomato;
+    border-radius: 10px;
+    padding: 5px 9px 4px 12px;
+    position: relative;
+    left: 35px;
+    background: transparent;
+    color:black;
+    background-color: red;
+    /* transition: all 1s; */
+}
+/* .wwatt3 button:hover
+{
+    background-color:red;
+} */
+.wwattst4 img
+{
+    position: relative;
+    left: 13px;
+    height: 70px;
+    width: 70px;
+    /* border-radius: 10px; */
+}
+
+.wwat13no
+{
+    position: relative;
+    top:50px;
+    margin-left:-28px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    width: 100%;
+     display: inline-block 
+}
+ .wwat13no div
+{
+    width: 600px;
+    
+}  
+.wwat13no P
+{
+    
+    position: relative;
+    left:50px ;
+    font-size: 15PX;
+    color: gray;
+    text-align: justify;
+    margin-top: 10px 10px 10px 50px;
+   
+}
+.wwat13no h2
+{
+    font-size: 20px;
+    color: blacks;
+    position: relative;
+    left: 50px;
+    font-style: normal;
+    margin-top: 10px;
+}
+.wwat13no button{
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    position: relative;
+    left: 250px;
+    background: transparent;
+    color: white;
+    transition: all 1s;
+}
+.wwat13no button:hover
+{
+    background-color: orange;
+}
+.wwat13no img
+{
+    position: relative;
+    left: 50px;
+    height: 300px;
+    width: 800px;
+    border-radius: 10px;
+}

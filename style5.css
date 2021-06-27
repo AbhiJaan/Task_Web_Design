@@ -1,0 +1,32 @@
+body{
+    padding: 0px;
+    margin: 0px; 
+   
+}
+a{
+    text-decoration: none;
+     text-shadow: rgb(6, 6, 34); 
+     /* background-color: blue;  */
+    font-size: 30px;
+    margin: 40px;
+   
+    
+}
+nav{
+    background-color: chartreuse;
+    padding: 10px 5px 10px 0px;
+    position:fixed;
+    top: 0px;
+    width: 100%;
+    
+}
+
+div
+{
+/* background-color: chartreuse; */
+height: 700px;
+background-image: url(./pix6.html);
+background-repeat: no-repeat;
+background-size: 100%;
+background-attachment: fixed;
+}

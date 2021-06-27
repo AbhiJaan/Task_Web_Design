@@ -1,0 +1,13 @@
+.nosidban
+{
+    background-color:lightgray;
+    height: 500px;
+    width:100% ;
+    position: relative;
+    left: 0px;
+    margin:0px 0px 0px 10px;
+    /* background-image: url("./pix2.jpg"); */
+    /* background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+    background-size: 100%
+}

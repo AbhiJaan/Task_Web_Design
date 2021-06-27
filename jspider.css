@@ -1,0 +1,14 @@
+body
+{
+    background-image:url(./pix5.jpg) ;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-style: italic;
+    text-align: justify;
+    background-position: center;
+    background-size: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+}

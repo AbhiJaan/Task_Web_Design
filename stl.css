@@ -1,0 +1,36 @@
+a:link
+{
+    text-decoration: none;
+    margin: 20px;
+}
+a:hover
+{
+    text-decoration: underline;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+a:visited
+{
+    color:purple;
+}
+a:active
+{
+    color: green;
+
+}
+ol li:first-child
+{
+    color: pink;
+}
+ol li:last-child
+{
+    color: green;
+}
+ol li:nth-child(3)
+{
+    color:hotpink;
+}
+ol li:nth-last-child(5)
+{
+    color:red;
+}

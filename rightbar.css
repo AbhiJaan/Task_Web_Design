@@ -1,0 +1,301 @@
+.bannerrt
+{
+
+    height: 400px;
+    width:100%PX ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-size: 100% */
+}
+
+nav a
+{
+    color: rgb(12, 9, 9);
+    text-decoration: none;
+    font-size: 20px;
+    position: relative;
+    left:500px;
+    padding:10px 0px 10px 10px;
+    margin-left: 50px;
+    transition: all 1s;
+   
+}
+ nav a:hover
+{
+    background-color:skyblue;
+     border-radius: 10px; 
+    padding: 5px;
+} 
+nav
+{
+    padding: 0px 0px 0px 0px;
+
+}
+
+.my-rtlogo
+{
+    
+    position: relative;
+    top: 5PX;
+    left: 550;
+    font-size: 17px!important;
+    color: rgb(26, 18, 18);
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block
+}
+.a-right
+
+{
+    /* display: inline-block; */
+    padding: 0px 0px 40px 0px;
+    position: relative;
+    margin-top: 5px;
+    margin-left: 329px;
+    color:white;
+
+}
+
+body
+{
+    background-color:white;
+}
+.rtcontent
+{
+    color: black;
+    position: relative;
+    top: 100px;
+    left: 230px;
+}
+.rtcontent p
+{
+    position: relative;
+    left: 69px;
+    top: -84px;
+    width: 800px;
+    font-size: 30px;
+    color: lightgray;
+    text-align: center;
+    
+}
+.rtcontent button
+{
+    position: relative;
+    top:5px;
+    left: 340px;
+    border-radius: 20px solid rgb(158, 18, 41);
+    size:800px;
+    /* border-radius:20px; */
+    padding: 10px 20px 10px 20px;
+    background:transparent;
+    color:white;
+    transition: all 1s;
+
+} 
+
+.rtcontent button:hover
+{
+    background-color: rgb(167, 10, 10);
+}
+.rtcontent h2
+{
+    position: relative;
+    top: -67px;
+    font-size: 50px;
+    left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.wwatrt
+{
+    position: relative;
+    top: -113px;
+    margin-left: 45px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    width: 350px;
+    display: inline-block 
+}
+.wwatrt button{
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    position: relative;
+    left: 26px;
+    background: transparent;
+    color: black;
+    transition: all 1s;
+}
+.wwatrt h2
+{
+    font-size: 20px;
+    color: lightgray;
+   margin: 0px 10px 10px 50px
+}
+
+.wwatrt p
+{
+    position: relative;
+    left:-48px ;
+    font-size: 14px;
+    color: rgb(27, 25, 25);
+    margin: 10px 10px 30px 50px;
+    text-align: l;
+}
+
+
+.wwatrt button:hover
+{
+    background-color: orange;
+}
+
+.wwatrt1
+{
+    position: relative;
+    top: -711px;
+    margin-left: 373px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    width: 800px;
+     display: inline-block 
+}
+ .wwatrt1 div
+{
+    width: 600px;
+    
+}  
+.wwatrt1 P
+{
+    
+    position: relative;
+    left:11px ;
+    font-size:17PX;
+    color: gray;
+    text-align: justify;
+    margin-top: 10px 10px 10px 50px;
+   
+}
+.wwatrt1 h2
+{
+    font-size: 20px;
+    color: black;
+    position: relative;
+    left: 50px;
+    font-style: normal;
+    margin-top: 10px;
+}
+.wwatrt1 button{
+    border: 1px solid orange;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    position: relative;
+    left: 250px;
+    background: transparent;
+    color: white;
+    transition: all 1s;
+}
+.wwatrt1 button:hover
+{
+    background-color: orange;
+}
+.wwatrt1 img
+{
+    position: relative;
+    left: 50px;
+    height: 300px;
+    width: 800px;
+    border-radius: 10px;
+}
+.wwatrt12
+{
+    position: relative;
+    top:50px;
+    margin-left:50px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    width: 600px;
+     display: inline-block 
+}
+ .wwatrt12 div
+{
+    width: 600px;
+    
+}  
+.wwatrt12 P
+{
+    
+    position: relative;
+    left:3px ;
+    font-size: 20PX;
+    color: gray;
+    text-align: justify;
+    margin-top: 10px 10px 10px 50px;
+   
+}
+.wwatrt12 h2
+{
+    font-size: 20px;
+    color: white;
+    font-style: normal;
+    margin-top: 10px;
+}
+.wwatrt12 button{
+    border: 1px solid skyblue;
+    border-radius: 10px;
+    padding: 10px 15px 10px 25px;
+    position: relative;
+    left: 250px;
+    background: transparent;
+    color: black;
+    transition: all 1s;
+}
+.wwatrt12 button:hover
+{
+    background-color: orange;
+}
+.wwatrt12 img
+{
+    position: relative;
+    left: 2s0px;
+    height: 300px;
+    width: 600px;
+    border-radius: 10px;
+}
+
+.bannerrt
+{
+
+    height: 700px;
+    width:100%PX ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-size: 100% */
+}
+.bantrt
+{
+    background-color:lightgray;
+    height: 500px;
+    width:100% ;
+    position: relative;
+    left: 10px;
+    margin:128px 0px 0px 10px;
+    /* background-image: url("./pix2.jpg"); */
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: 100%
+}
+.wwatrts
+{
+    position: relative;
+    top: 25px;
+    margin-left: 45px;
+    text-align: justify;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 400px;
+    width: 350px;
+    display: inline-block 
+}

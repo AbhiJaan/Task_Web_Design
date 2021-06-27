@@ -1,0 +1,19 @@
+.form img
+{
+    border-radius: 50px 0px 50px 0px;
+    
+}
+
+.form img .div1
+{
+    display: inline-block;
+}
+.form img .div2
+{
+    display: inline-block;
+}
+
+img .div3
+{
+    display: inline-block;
+}

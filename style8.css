@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background: #fec107;
+    padding:0 10px;
+
+}
+.wrapper{
+    max-width:500px ;
+    width:100%;
+    background: #fff;
+    margin:20px auto;
+    padding: 30px;
+    box-shadow: 1px 1px 2px rgba(0,0,0,0.125);
+}
+
+.wrapper .title{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    color: #fec107;
+    text-transform: uppercase;
+    text-align: center;
+}
+.wrapper .porm{
+    width:100%;
+}
+.wrapper .form .input_field{
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.wrapper .form .input_field label{
+    width: 200px;
+    color: #757575;
+    margin-right: 10px;
+    font-size: 14px;
+}
+
+.wrapper .form .input_field .input,
+.wrapper .form .input_field .textarea{
+    width: 100%;
+    outline: none;
+    border: 1px solid #d5dbd9;
+    font-size: 15px;
+    padding: 8px 10px;
+    border-radius: 3px;
+    transition: all 0.3s ease;
+
+}
+.wrapper .form .input_field .textarea{
+    resize: none;
+    height: 125px;
+
+}
+.wrapper .form .input_field .custom_select{
+    position:relative;
+    width:100%;
+    height: 37px;
+
+}
+.wrapper .form .input_field .custom_select select{
+    -webkit-appearance:none;
+    appearance: none;
+    border:1px solid #d5dbd9;
+    width:100%;
+    height: 100%;
+    padding: 8px 10px;
+    border-radius: 3px;
+    outline: none;
+
+}
+
+.wrapper .form .input_field .custom_select:before{
+    content:" ";
+    position: absolute;
+    top: 12px;
+    right: 10px;
+    border: 8px solid;
+    border-color: #d5dbd9 transparent transparent transparent;
+    pointer-events: none;
+}
+
+.wrapper .form .input_field .input:focus,
+.wrapper .form .input_field .textarea:focus,
+.wrapper .form .input_field select:focus{
+    border:1px solid #fec107
+}
+
+.wrapper .form .input_field p{
+    font-size: 14px;
+    color: #757575;
+}
+
+.wrapper .form .input_field .check{
+    width: 15px;
+    height: 15px;
+    position:relative;
+    display: block;
+    cursor: pointer;
+}
+.wrapper .form .input_field .check input[type="checkbox"]{
+    position: absolute;
+    top:0;
+    left: 0;
+    opacity: 0;
+}
+.wrapper .form .input_field .check .checkmark{
+    width: 15px;
+    height: 15px;
+    border:1px solid #fec107;
+    display: block;
+    position: relative;
+   
+    /* background: #fec107; */
+}
+
+.wrapper .form .input_field .check .checkmark:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 5px;
+    height: 2px;
+    border: 2px solid;
+    border-color:transparent transparent #fff #fff;
+    transform: rotate(-45deg);
+    display: inline-block;
+}
+.wrapper .form .input_field .check input[type="checkbox"]:checked ~ .checkmark{
+    background: #fec107;
+}
+
+.wrapper .form .input_field .check input[type="checkbox"]:checked ~ 
+.checkmark:before{
+display: inline-block;
+}
+
+.wrapper .form .input_field .btn{
+    width: 50%;
+    padding: 8px 10px;
+    margin:10px 10px 10px 10px;
+    font-size: 15px;
+    border: 0;
+    background: #fec107;
+    color: #fff;
+    cursor:pointer ;
+    border-radius: 3px;
+    overflow: none;
+}
+.wrapper .form .input_field:last-child{
+    margin-bottom:0;
+
+}
+
+.wrapper .form .input_field .btn:hover{
+    background: #ffd658;
+}
+
+@media (max-width:420px){
+    .wrapper .form .input_field{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .wrapper .form .input_field label{
+        margin-bottom: 5px;
+    }
+    .wrapper .form .input_field.terms{
+        flex-direction: row;
+    }
+}
+
+*{box-sizing: border-box}
+/* Full-width input fields */
+  input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+/* Add a background color when the inputs get focus */
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for all buttons */
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+button:hover {
+  opacity:1;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+  padding: 14px 20px;
+  background-color: #f44336;
+}
+
+/* Float cancel and signup buttons and add an equal width */
+.cancelbtn, .signupbtn {
+  float:right;
+  width: 50%;
+}
+
+/* Add padding to container elements */
+.container {
+  padding: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: #474e5d;
+  padding-top: 50px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color: #fefefe;
+  margin: 5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border: 1px solid #888;
+  width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* Style the horizontal ruler */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* The Close Button (x) */
+.close {
+  position: absolute;
+  right: 35px;
+  top: 15px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #f1f1f1;
+}
+
+.close:hover,
+.close:focus {
+  color: #f44336;
+  cursor: pointer;
+}
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Change styles for cancel button and signup button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn, .signupbtn {
+    width: 100%;
+  }
+}

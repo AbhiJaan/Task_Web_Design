@@ -1,0 +1,61 @@
+.banner
+{
+    height: 500px;
+    width:100%;
+    background-image: url(./pix5.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+
+}
+
+.my-login
+{
+    color: white;
+    position: relative;
+    top: 100px;
+    left: 230px;
+}
+.my-login p
+{
+    position: relative;
+    left: 15px;
+    width: 800px;
+    text-align: center;
+    
+}
+.my-login button
+{
+    position: relative;
+    top:5px;
+    left: 40px;
+    border-radius: 20px solid rgb(158, 18, 41);
+    size:800px;
+    /* border-radius:20px; */
+    padding: 10px 40px 10px 40px;
+    background:transparent;
+    color:white;
+    transition: all 1s;
+
+} 
+
+.my-login button:hover
+{
+    background-color: rgb(167, 10, 10);
+}
+.my-login h1
+{
+    position: relative;
+    top:10px;
+    font-size: 60px;
+    left: 300px;
+}
+
+.my-login input
+{
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    
+
+}
+

@@ -1,0 +1,14 @@
+body
+{
+color:rgb(172, 219, 62);
+background-image: url(./pix2.jpg);
+/*background-repeat: repeat-x;
+background-repeat: repeat-y;*/
+background-repeat: no-repeat;
+background-size: 100% 100%;
+background-attachment: fixed;
+/*overflow:scroll;*/
+text-align: left;
+
+
+}

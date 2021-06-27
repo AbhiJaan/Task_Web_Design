@@ -1,0 +1,41 @@
+.sushmabanner
+{
+    background-image: url(./pix4.jpg);
+    height:500px;
+    width:100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.my-logo
+{
+    
+    position: relative;
+    margin-top: 20px;
+    font-size: 17px!important;
+    color: white;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+}
+nav a
+{
+color:white;
+position: relative;
+left:50px;
+right: 50px;
+text-decoration:none;
+padding: 0px 0px 0px 0px;
+transition: 1s;
+
+}
+nav:hover a{
+    color: blue;
+}
+.a-right
+{
+ /* display: inline-block; */
+ padding: 0px 0px 40px 0px;
+ position: relative;
+ margin-top: 5px;
+ margin-left: 329px;
+}

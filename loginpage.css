@@ -1,0 +1,37 @@
+.banner
+{
+   background-image:url("./pix4.jpg"); 
+   height: 500px;
+   width: 100%;
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: 100%;
+}
+nav a
+{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    position:relative;
+    left:100px;
+    padding:10px 0px 10px 10px;
+    margin-left: 50px;
+    transition: all 1s;
+}
+nav a :hover
+{
+    background-color: rgb(3, 3, 75);
+    border-radius: 10px;
+    padding: 5px;
+}
+.a-right
+
+{
+    /* display: inline-block; */
+    padding: 0px 0px 40px 0px;
+    position: relative;
+    margin-top: 5px;
+    margin-left: 329px;
+    
+
+}

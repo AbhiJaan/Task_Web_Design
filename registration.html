@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style8.css">
+    
+    <script src="register.js"></script>
+    
+    <title>Registration Form</title>
+</head>
+<body>
+    <form name="RegForm" action="./TASK3.html" method="post" onsubmit="return valid()">
+    <div class="wrapper">
+
+        <div class="title">
+            Registration Form
+
+        </div>
+        <div class="form">
+            <div class="input_field">
+                <label>First Name</label>
+                <input type="text" name="fname" class="input">
+            </div>
+            <div class="input_field">
+                <label>Last Name</label>
+                <input name="lname" type="text" class="input">
+            </div>
+            <div class="input_field">
+                <label>Password</label>
+                <input name="password" type="password" class="input">
+            </div>
+            <div class="input_field">
+                <label>Confirm Password</label>
+                <input name="cpass" type="password" class="input">
+            </div>
+            <div class="input_field">
+                <label>Gender</label>
+                <div class="custom_select">
+                    <select >
+                        <option value="">Select</option>
+                        <option name="male"value="male">Male</option>
+                        <option name="female" value="female">Female</option>
+                        <option name="other" value="other">Other</option>
+                    </select>
+                </div>
+            </div>
+            <div class="input_field">
+                <label>Email Address</label>
+                <input name="email" placeholder="Valid Email" type="text" class="input" >
+            </div>
+            <div class="input_field">
+                <label>Phone Number</label>
+                <input id="pnumber" type="text" class="input" value="">
+                <span id="messages"></span>
+            </div>
+            <div class="input_field">
+                <label>Address</label>
+                <input name="address" type="textarea" class="input">
+            </div>
+            <div class="input_field">
+                <label>Postal Code</label>
+                <input name="pcode" type="text" class="input">
+            </div>
+            <div class="input_field terms">
+                <label class="check">
+                    <input id="check" type="checkbox">
+                    <span class="checkmark"></span>
+                    
+                </label>
+                <p>Agreed to terms and conditions </p>
+               
+                <input type="text" class="input">
+            </div>
+            <div class="input_field">
+                <input type="submit" value="Register" class="btn">
+                <input type="cancel" value="Cancel" class="btn">
+            </div>
+        
+        
+        </div>
+    </div>
+</form>
+</body>
+</html>

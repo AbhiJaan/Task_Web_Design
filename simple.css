@@ -1,0 +1,41 @@
+.simp
+{
+  height: 100px;  
+  width: 150px;
+  position: relative;
+  top:10px;
+  left:20px;
+  display: inline-block;
+}
+.simp div
+{
+    width: 200px;
+}
+.simp h2
+{
+    position: relative;
+    top:10px;
+    left:20px;
+    text-align: justify;
+    color:black
+
+}
+.simp p
+{
+    position: relative;
+    top:10px;
+    left:-160px;
+    text-align: justify;
+    color:black
+}
+.simp img
+{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top:10px;
+    left:20px;
+}
+.simp img div{
+    width: 150px;
+}

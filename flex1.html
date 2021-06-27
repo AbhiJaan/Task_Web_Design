@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    .flex-container3 > div {
+    background-image: url(./pix4.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    align-items: flex-start;
+    
+    margin: 10px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 30px;
+    color: white;
+}
+    .flex-container3 {
+        display: flex;
+        flex-direction: row;
+        align-items:flex-end;
+        height: 500px;
+        background-color: DodgerBlue;
+        
+       
+      }
+      .flex-container3 >*:first-child {
+          align-self:stretch;
+      }
+      .flex-container3 .selected {
+          align-self:flex-start;
+      }
+    </style>
+
+</head>
+<body>
+    <div class="flex-container3">
+        <div>One</div>
+        <div>Two</div>
+        <div class="selected">Three</div>
+        <div>Four</div>
+      </div>
+    
+</body>
+</html>

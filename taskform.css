@@ -1,0 +1,105 @@
+/* .container
+{
+    background-color: none;
+    height: 60px;
+    width:700px ;
+    margin:0px 0px 0px 10px;
+    background-size: 100%
+} */
+.col
+{
+    /* color: white;
+    position: relative;
+    top: 22px;
+    left: 12px;
+    display: inline-block;
+    padding: 30px 100px 30px 100px; */
+    /* margin:20px ; */
+    display:inline-block;
+}
+
+/* .col div
+{
+    margin:20px ;
+ 
+} */
+body.html
+{
+    padding:0px;
+    margin: 0px;
+    overflow-y: hidden;
+    /* width: 100PX; */
+}
+.ban
+{
+    /* background-color: ; */
+    height: 400px;
+    width:1265PX ;
+    margin:23px 47px 22px 10px;
+    background-image: url("./road.jpg");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: 100%
+}
+.message
+{
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 0px;
+    display: inline-block;
+}
+.message div
+{
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 1px;
+}
+.message button
+{
+    position: relative;
+    left:20px;
+    box-sizing: border-box;
+ 
+    size:800px;
+    border-radius:5px;
+    padding:15px 50px 15px 50px;
+    background:transparent;
+    color:white;
+    background-color: red;
+    margin-bottom: 50px;
+    /* transition: all 1s; */
+
+} 
+.messagealt
+{
+    color: white;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    display: inline-block;
+}
+.messagealt div
+{
+    color: white;
+    position: relative;
+    top: -10px;
+    left: 1px;
+}
+.messagealt button
+{
+    position: relative;
+    left:20px;
+    box-sizing: border-box;
+ 
+    size:800px;
+    border-radius:5px;
+    padding:15px 40px 15px 40px;
+    background:transparent;
+    color:white;
+    background-color: black;
+    margin-bottom:20px ;
+    /* transition: all 1s; */
+
+} 
